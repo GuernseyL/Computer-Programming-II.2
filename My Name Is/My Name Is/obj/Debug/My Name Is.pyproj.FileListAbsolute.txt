@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\obj\Debug\My Name Is.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\obj\Debug\My_Name_Is.MainForm.resources
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\obj\Debug\My Name Is.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\My Name Is.exe.config
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\My Name Is.exe
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\My Name Is.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\Computer Programming II\My Name Is\My Name Is\obj\Debug\My Name Is.exe
