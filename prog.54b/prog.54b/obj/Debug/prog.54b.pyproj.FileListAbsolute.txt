@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\prog.54b.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\prog.54b.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\prog.54b.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\obj\Debug\prog.54b.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\obj\Debug\prog._4b.MainForm.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\obj\Debug\prog.54b.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.54b\prog.54b\obj\Debug\prog.54b.exe
