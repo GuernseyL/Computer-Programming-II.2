@@ -1,0 +1,12 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\prog.166e.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\prog.166e.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\prog.166e.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\obj\Debug\prog.166e.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\obj\Debug\prog._66e.MainForm.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\obj\Debug\prog.166e.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\prog.166e\prog.166e\obj\Debug\prog.166e.exe
