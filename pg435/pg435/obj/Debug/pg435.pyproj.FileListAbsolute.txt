@@ -1,0 +1,14 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.pyprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.MainForm.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.Student.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.pyproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\pg435.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\pg435.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\pg435.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\IronPython.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\IronPython.Modules.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\Microsoft.Scripting.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\pg435\pg435\obj\Debug\pg435.General.resources
