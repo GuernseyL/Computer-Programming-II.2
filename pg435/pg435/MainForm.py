@@ -76,5 +76,5 @@ class MainForm(Form):
 	def Button2Click(self, sender, e):
 		from General import *
 		general = General(self)
-		student.Show()
+		general.Show()
 		self.Hide()

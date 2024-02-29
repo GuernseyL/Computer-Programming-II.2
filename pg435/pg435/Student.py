@@ -80,6 +80,7 @@ class Student(Form):
 		self._button2.TabIndex = 5
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# label4
 		# 
@@ -149,6 +150,7 @@ class Student(Form):
 		self._button3.TabIndex = 13
 		self._button3.Text = "Return to Main Screen"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
 		# 
 		# Student
 		# 
@@ -178,11 +180,21 @@ class Student(Form):
 		self.myparent.Show()
 
 	def Button1Click(self, sender, e):
-		tickets = self._textBox1.Text
-		CoT = 7.00 * tickets
+		Tickets = int(self._textBox1.Text)
+		CoT = 7.00 * Tickets
 		CoTax = CoT * 0.055
 		TC = CoTax + CoT
-		self._label8.text = "$" + str(Round(CoT, 3))
-		self._label9.text = "$" + str(Round(CoTax, 3))
-		self._label10.text = "$" + str(Round(TC, 3))
+		self._label8.Text = "$" + str(round(CoT, 4))
+		self._label9.Text = "$" + str(round(CoTax, 4))
+		self._label10.Text = "$" + str(round(TC, 4))
 		
+
+	def Button2Click(self, sender, e):
+		self._textBox1.Text = ""
+		self._label8.Text = ""
+		self._label9.Text = ""
+		self._label10.Text = ""
+
+	def Button3Click(self, sender, e):
+		self.myparent.Show()
+		self.Close()
