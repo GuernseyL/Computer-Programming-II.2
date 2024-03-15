@@ -5,7 +5,7 @@ from CL213f import *
 def main():
   try:
     elecbills = []
-    with open("Langdat\prog213f.dat", 'r') as f:
+    with open("Langdat\\prog213f.dat", 'r') as f:
       for line in f:
         kwh = int(line)
         if kwh != -999:
