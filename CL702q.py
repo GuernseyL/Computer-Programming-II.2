@@ -20,6 +20,6 @@ class Truck(Vehicle):
 
 
 class Bus(Vehicle):
-  def __init__(self, fn, ln, HomeT):
-    super().__init__(fn, ln)
+  def __init__(self, name, tire, HomeT):
+    super().__init__(name, tire)
     self.city = HomeT

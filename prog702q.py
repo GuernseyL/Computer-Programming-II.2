@@ -1,33 +1,43 @@
-from collections.abc import Mapping
 from CL702q import*
 
 def main():
+  
   try:
     vehicles = []
     with open("Langdat/prog702q.txt", 'r') as f:
-      num = int(f.readline())
+      num = 0
       while num != 99:
+        num = int(f.readline())
+        if num == 99:
+          break
         name = f.readline()
-        tire = f.readline()
+        tire = int(f.readline())
         if num == 1:
-          worth = float(f.readline())
+          worth = float(f.readline())        
           p = Car(name, tire, worth)
           vehicles.append(p)
         elif num == 2:
-          Mileage = int(f.readline())
+          Mileage = int(f.readline())    
           p = Truck(name, tire, Mileage)
           vehicles.append(p)
         elif num == 3:
           HomeT = f.readline().strip()
           p = Bus(name, tire, HomeT)
           vehicles.append(p)
-        num = int(f.readline())
+
+
+      
       totVeh = 0
       carWor = 0
       vehWor = 0
       large = ""
-      truPoor = 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+      truPoor = 99999999999999999999999999999999999999999999999999999
       tirTot = 0
+      
+
+
+
+      
       for vehicle in vehicles:
         if isinstance(vehicle, Car):
           worth = vehicle.worth
@@ -43,19 +53,19 @@ def main():
           TruckWorth = 50000 - (0.25 * int(mileage))
           if float(TruckWorth) < int(truPoor):
             truPoor = TruckWorth
-          vehWor += TruckWorth
+            vehWor += TruckWorth
           tirTot += int(tires)
         elif isinstance(vehicle, Bus):
           Home = vehicle.city
           tires = vehicle._tire
           totVeh += 1
-          if len(Home) > len(large):
+          if len(Home) >= len(large):
             large = Home
           tirTot += int(tires)
       print("Total number of Vehicles:", totVeh)
       print("Total worth of Cars: $", carWor)
       print("Total worth of Vehicles: $", vehWor)
-      print("Largest town name:", large)
+      print("Largest town name: "+large)
       print("Least valued truck:", truPoor)
       print("Total number of Tires:", tirTot)
   except Exception as e:
