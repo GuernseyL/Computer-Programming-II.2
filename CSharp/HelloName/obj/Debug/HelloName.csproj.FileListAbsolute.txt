@@ -1,0 +1,5 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\HelloName\bin\Debug\HelloName.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\HelloName\bin\Debug\HelloName.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\HelloName\obj\Debug\HelloName.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\HelloName\obj\Debug\HelloName.pdb
