@@ -9,8 +9,8 @@ def Sum(n):
 def main():
   num = int(input("Enter a number: "))
   while num != 0:
-    factn = Sum(num)
-    print ("Sum Series = " + f"{Sum}")
+    sumn = Sum(num)
+    print ("Sum Series = " + f"{sumn}")
     num = int(input("enter a number: "))
 
 if __name__ == "__main__":
