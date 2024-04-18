@@ -1,0 +1,9 @@
+c:\users\guernsey.l\documents\visual studio 2013\Projects\Pg266CSharp\Pg266CSharp\bin\Debug\Pg266CSharp.exe.config
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.csprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.Form1.resources
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.Properties.Resources.resources
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.csproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\bin\Debug\Pg266CSharp.exe
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\bin\Debug\Pg266CSharp.pdb
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.exe
+C:\Users\guernsey.l\Documents\Visual Studio 2013\Projects\Pg266CSharp\Pg266CSharp\obj\Debug\Pg266CSharp.pdb
