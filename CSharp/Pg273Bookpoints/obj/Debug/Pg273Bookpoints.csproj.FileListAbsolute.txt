@@ -1,0 +1,6 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\bin\Debug\Pg273Bookpoints.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\bin\Debug\Pg273Bookpoints.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\bin\Debug\Pg273Bookpoints.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\obj\Debug\Pg273Bookpoints.csprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\obj\Debug\Pg273Bookpoints.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273Bookpoints\obj\Debug\Pg273Bookpoints.pdb
