@@ -1,1 +1,9 @@
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\bin\Debug\pg273BookPointsForm.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\bin\Debug\pg273BookPointsForm.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\bin\Debug\pg273BookPointsForm.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.csprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.Form1.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.Properties.Resources.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.csproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\pg273BookPointsForm\obj\Debug\pg273BookPointsForm.pdb

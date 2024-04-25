@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EBF418BA-48E8-4BDB-BF1A-E9BA015805F4}</ProjectGuid>
+    <ProjectGuid>{46EE5CB8-8885-4CE0-B12C-F0326324A3C0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>pg273BookPointsForm</RootNamespace>
-    <AssemblyName>pg273BookPointsForm</AssemblyName>
+    <RootNamespace>Pg266Application</RootNamespace>
+    <AssemblyName>Pg266Application</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

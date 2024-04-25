@@ -1,0 +1,8 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\bin\Debug\Pg273 Mass and Weight.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\bin\Debug\Pg273 Mass and Weight.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\bin\Debug\Pg273 Mass and Weight.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\obj\Debug\Pg273_Mass_and_Weight.Form1.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\obj\Debug\Pg273_Mass_and_Weight.Properties.Resources.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\obj\Debug\Pg273 Mass and Weight.csproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\obj\Debug\Pg273 Mass and Weight.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Pg273 Mass and Weight\obj\Debug\Pg273 Mass and Weight.pdb
