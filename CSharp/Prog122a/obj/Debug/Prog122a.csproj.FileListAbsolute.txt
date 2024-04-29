@@ -1,0 +1,9 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\bin\Debug\Prog122a.exe.config
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\bin\Debug\Prog122a.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\bin\Debug\Prog122a.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.csprojResolveAssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.Form1.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.Properties.Resources.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.csproj.GenerateResource.Cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\Prog122a\obj\Debug\Prog122a.pdb
