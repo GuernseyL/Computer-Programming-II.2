@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg273 Mass and Weight", "Pg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122a", "Prog122a\Prog122a.csproj", "{92086D93-DA84-4F58-8558-2374E43F3677}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog310a", "Prog310a\Prog310a.csproj", "{C4320667-569C-42E6-81A5-4D33457539DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Pg347Sum\Pg347Sum.csproj", "{E0E69A34-5E0E-4C1F-9DCA-FFD9220BBA7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{92086D93-DA84-4F58-8558-2374E43F3677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92086D93-DA84-4F58-8558-2374E43F3677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92086D93-DA84-4F58-8558-2374E43F3677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4320667-569C-42E6-81A5-4D33457539DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4320667-569C-42E6-81A5-4D33457539DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4320667-569C-42E6-81A5-4D33457539DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4320667-569C-42E6-81A5-4D33457539DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E69A34-5E0E-4C1F-9DCA-FFD9220BBA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E69A34-5E0E-4C1F-9DCA-FFD9220BBA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E69A34-5E0E-4C1F-9DCA-FFD9220BBA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E69A34-5E0E-4C1F-9DCA-FFD9220BBA7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
