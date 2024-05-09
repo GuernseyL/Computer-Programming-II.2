@@ -5,7 +5,17 @@
       "ProjectGuid": "e0e69a34-5e0e-4c1f-9dca-ffd9220bba7e",
       "DisplayName": "Pg347Sum",
       "ColorIndex": 0
+    },
+    "b7ee3f11-de91-419a-922f-2a7736c375ed": {
+      "ProjectGuid": "b7ee3f11-de91-419a-922f-2a7736c375ed",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 1
+    },
+    "6287da6a-8e0b-4a2b-8e5b-0f2211de275f": {
+      "ProjectGuid": "6287da6a-8e0b-4a2b-8e5b-0f2211de275f",
+      "DisplayName": "Prog366b",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
