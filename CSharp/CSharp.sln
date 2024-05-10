@@ -37,7 +37,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg347Sum", "Pg347Sum\Pg347S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{B7EE3F11-DE91-419A-922F-2A7736C375ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog366b", "Prog366b\Prog366b.csproj", "{6287DA6A-8E0B-4A2B-8E5B-0F2211DE275F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog366b", "Prog366b\Prog366b.csproj", "{6287DA6A-8E0B-4A2B-8E5B-0F2211DE275F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg344LoanCalc", "pg344LoanCalc\pg344LoanCalc.csproj", "{9FC9A1C1-836C-455B-AB59-856AD30375C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122b", "Lang122b\Lang122b.csproj", "{403E7A5F-D731-4F57-AA4E-63AD561D8C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lang122d", "lang122d\lang122d.csproj", "{3EAFEA9C-3BA5-4337-BB11-C150B222A444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +123,18 @@ Global
 		{6287DA6A-8E0B-4A2B-8E5B-0F2211DE275F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6287DA6A-8E0B-4A2B-8E5B-0F2211DE275F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6287DA6A-8E0B-4A2B-8E5B-0F2211DE275F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC9A1C1-836C-455B-AB59-856AD30375C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC9A1C1-836C-455B-AB59-856AD30375C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC9A1C1-836C-455B-AB59-856AD30375C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC9A1C1-836C-455B-AB59-856AD30375C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403E7A5F-D731-4F57-AA4E-63AD561D8C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403E7A5F-D731-4F57-AA4E-63AD561D8C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403E7A5F-D731-4F57-AA4E-63AD561D8C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403E7A5F-D731-4F57-AA4E-63AD561D8C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAFEA9C-3BA5-4337-BB11-C150B222A444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAFEA9C-3BA5-4337-BB11-C150B222A444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAFEA9C-3BA5-4337-BB11-C150B222A444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAFEA9C-3BA5-4337-BB11-C150B222A444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\lang122d.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\lang122d.deps.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\lang122d.runtimeconfig.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\lang122d.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\ref\lang122d.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\bin\Debug\net6.0-windows\lang122d.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.csproj.AssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.Form1.resources
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.csproj.GenerateResource.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.AssemblyInfoInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.AssemblyInfo.cs
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.csproj.CoreCompileInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\ref\lang122d.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\lang122d\obj\Debug\net6.0-windows\lang122d.genruntimeconfig.cache
