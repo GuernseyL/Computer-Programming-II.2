@@ -15,7 +15,42 @@
       "ProjectGuid": "6287da6a-8e0b-4a2b-8e5b-0f2211de275f",
       "DisplayName": "Prog366b",
       "ColorIndex": 2
+    },
+    "9fc9a1c1-836c-455b-ab59-856ad30375c8": {
+      "ProjectGuid": "9fc9a1c1-836c-455b-ab59-856ad30375c8",
+      "DisplayName": "pg344LoanCalc",
+      "ColorIndex": 3
+    },
+    "403e7a5f-d731-4f57-aa4e-63ad561d8c74": {
+      "ProjectGuid": "403e7a5f-d731-4f57-aa4e-63ad561d8c74",
+      "DisplayName": "Lang122b",
+      "ColorIndex": 4
+    },
+    "46ee5cb8-8885-4ce0-b12c-f0326324a3c0": {
+      "ProjectGuid": "46ee5cb8-8885-4ce0-b12c-f0326324a3c0",
+      "DisplayName": "Pg266Application",
+      "ColorIndex": 5
+    },
+    "92086d93-da84-4f58-8558-2374e43f3677": {
+      "ProjectGuid": "92086d93-da84-4f58-8558-2374e43f3677",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 6
+    },
+    "3eafea9c-3ba5-4337-bb11-c150b222a444": {
+      "ProjectGuid": "3eafea9c-3ba5-4337-bb11-c150b222a444",
+      "DisplayName": "lang122d",
+      "ColorIndex": 7
+    },
+    "5c0e12ef-a192-410f-9a86-0d4295958232": {
+      "ProjectGuid": "5c0e12ef-a192-410f-9a86-0d4295958232",
+      "DisplayName": "Pg498Payroll",
+      "ColorIndex": 8
+    },
+    "005a8540-f453-4d49-aa73-ac4651d8d8f6": {
+      "ProjectGuid": "005a8540-f453-4d49-aa73-ac4651d8d8f6",
+      "DisplayName": "ChatRoom",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 10
 }

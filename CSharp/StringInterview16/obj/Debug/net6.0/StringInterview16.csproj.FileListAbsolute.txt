@@ -1,0 +1,15 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.csproj.AssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.AssemblyInfoInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.AssemblyInfo.cs
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.csproj.CoreCompileInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\StringInterview16.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\StringInterview16.deps.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\StringInterview16.runtimeconfig.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\StringInterview16.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\ref\StringInterview16.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\bin\Debug\net6.0\StringInterview16.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\ref\StringInterview16.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview16\obj\Debug\net6.0\StringInterview16.genruntimeconfig.cache

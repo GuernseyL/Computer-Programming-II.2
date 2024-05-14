@@ -1,0 +1,15 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.deps.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.runtimeconfig.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\ref\StringInterview7.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\bin\Debug\net6.0\StringInterview7.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.csproj.AssemblyReference.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.AssemblyInfoInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.AssemblyInfo.cs
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.csproj.CoreCompileInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\ref\StringInterview7.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\StringInterview7\obj\Debug\net6.0\StringInterview7.genruntimeconfig.cache
