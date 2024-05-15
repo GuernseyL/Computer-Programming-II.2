@@ -1,0 +1,14 @@
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\LiveChat.exe
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\LiveChat.deps.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\LiveChat.runtimeconfig.json
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\LiveChat.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\ref\LiveChat.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\bin\Debug\net6.0\LiveChat.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.AssemblyInfoInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.AssemblyInfo.cs
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.csproj.CoreCompileInputs.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\ref\LiveChat.dll
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.genruntimeconfig.cache

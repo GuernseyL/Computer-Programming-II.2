@@ -47,11 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lang122d", "lang122d\lang12
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg498Payroll", "Pg498Payroll\Pg498Payroll.csproj", "{5C0E12EF-A192-410F-9A86-0D4295958232}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatRoom", "ChatRoom\ChatRoom.csproj", "{005A8540-F453-4D49-AA73-AC4651D8D8F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterview7", "StringInterview7\StringInterview7.csproj", "{37A246A5-EE09-4901-89DB-B09E9690AE17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterview7", "StringInterview7\StringInterview7.csproj", "{37A246A5-EE09-4901-89DB-B09E9690AE17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterview16", "StringInterview16\StringInterview16.csproj", "{F555F2A4-CB20-4971-81EE-F70A42264A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterview16", "StringInterview16\StringInterview16.csproj", "{F555F2A4-CB20-4971-81EE-F70A42264A7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChat", "LiveChat\LiveChat.csproj", "{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChatRoom", "LiveChatRoom\LiveChatRoom.csproj", "{FB68AC88-13A1-4BA4-8648-A63776B67082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,10 +149,6 @@ Global
 		{5C0E12EF-A192-410F-9A86-0D4295958232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C0E12EF-A192-410F-9A86-0D4295958232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C0E12EF-A192-410F-9A86-0D4295958232}.Release|Any CPU.Build.0 = Release|Any CPU
-		{005A8540-F453-4D49-AA73-AC4651D8D8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{005A8540-F453-4D49-AA73-AC4651D8D8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{005A8540-F453-4D49-AA73-AC4651D8D8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{005A8540-F453-4D49-AA73-AC4651D8D8F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{37A246A5-EE09-4901-89DB-B09E9690AE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37A246A5-EE09-4901-89DB-B09E9690AE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A246A5-EE09-4901-89DB-B09E9690AE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -159,6 +157,14 @@ Global
 		{F555F2A4-CB20-4971-81EE-F70A42264A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F555F2A4-CB20-4971-81EE-F70A42264A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F555F2A4-CB20-4971-81EE-F70A42264A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

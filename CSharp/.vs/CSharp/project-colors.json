@@ -50,7 +50,17 @@
       "ProjectGuid": "005a8540-f453-4d49-aa73-ac4651d8d8f6",
       "DisplayName": "ChatRoom",
       "ColorIndex": 9
+    },
+    "37a246a5-ee09-4901-89db-b09e9690ae17": {
+      "ProjectGuid": "37a246a5-ee09-4901-89db-b09e9690ae17",
+      "DisplayName": "StringInterview7",
+      "ColorIndex": 10
+    },
+    "f555f2a4-cb20-4971-81ee-f70a42264a7d": {
+      "ProjectGuid": "f555f2a4-cb20-4971-81ee-f70a42264a7d",
+      "DisplayName": "StringInterview16",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }
