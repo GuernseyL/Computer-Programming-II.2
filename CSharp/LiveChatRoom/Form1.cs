@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace LiveChatRoom
 {
@@ -19,8 +20,6 @@ namespace LiveChatRoom
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string message = textBox1.Text;
-            listBox1.Items.Add(message);
         }
     }
 }

@@ -23,7 +23,6 @@ namespace Pg347Sum
             int lcv = 0;
             int Num = 0;
             string variable = Interaction.InputBox("Enter a positive Integer", "Sum of numbers");
-            lcv = variable;
             while (lcv != 0)
                 
             MessageBox.Show(variable);

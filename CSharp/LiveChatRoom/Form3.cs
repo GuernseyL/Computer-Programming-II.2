@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace LiveChatRoom
 {
@@ -15,6 +16,17 @@ namespace LiveChatRoom
         public Form3()
         {
             InitializeComponent();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            string variable = "aa";
         }
     }
 }
