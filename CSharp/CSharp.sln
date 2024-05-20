@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterview7", "StringI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterview16", "StringInterview16\StringInterview16.csproj", "{F555F2A4-CB20-4971-81EE-F70A42264A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChat", "LiveChat\LiveChat.csproj", "{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChat", "LiveChat\LiveChat.csproj", "{1D0D5BD7-49A2-4161-A861-E2556C0F8AE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChatRoom", "LiveChatRoom\LiveChatRoom.csproj", "{FB68AC88-13A1-4BA4-8648-A63776B67082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoomLive", "ChatRoomLive\ChatRoomLive.csproj", "{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB68AC88-13A1-4BA4-8648-A63776B67082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
