@@ -9,6 +9,5 @@ C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRo
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.csproj.CoreCompileInputs.cache
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.exe
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.pdb
-C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.csproj.ResolveComReference.cache
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.Form2.resources
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChatRoom\obj\Debug\LiveChatRoom.Form3.resources

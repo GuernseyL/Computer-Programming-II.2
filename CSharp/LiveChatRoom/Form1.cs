@@ -20,7 +20,19 @@ namespace LiveChatRoom
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ServerName = Interaction.inputbox("Enter server name", "Server name here:");
+            Form2 ChatRoom = new Form2();
+            string ServerName = Interaction.InputBox("Server name here:", "Enter server name");
+            string HostName = Interaction.InputBox("Enter your admin name here:", "Enter host name");
+            this.Hide();
+            ChatRoom.Show();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 GuestRoom = new Form3();
+            GuestRoom.Show();
+            this.Hide();
         }
     }
 }

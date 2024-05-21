@@ -20,7 +20,8 @@ namespace LiveChatRoom
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Form1 HostGuestRoom = new Form1();
+            HostGuestRoom.Show();
         }
     }
 }

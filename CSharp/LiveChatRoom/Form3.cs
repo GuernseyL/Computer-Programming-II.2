@@ -26,7 +26,7 @@ namespace LiveChatRoom
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string variable = "aa";
+            string variable = "alpha";
         }
     }
 }
