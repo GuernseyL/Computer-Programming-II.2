@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
 
+
 namespace LiveChatRoom
 {
     public partial class Form2 : Form
@@ -24,6 +25,7 @@ namespace LiveChatRoom
         {
             Form1 HostGuestRoom = new Form1();
             HostGuestRoom.Show();
+
         }
     }
 }

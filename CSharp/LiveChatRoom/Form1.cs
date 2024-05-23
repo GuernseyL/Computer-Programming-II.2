@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
 
+
 namespace LiveChatRoom
 {
     public partial class Form1 : Form
@@ -31,6 +32,7 @@ namespace LiveChatRoom
         private void button2_Click(object sender, EventArgs e)
         {
             Form3 GuestRoom = new Form3();
+            string ServerName = Interaction.InputBox("Server name here:", "Enter server name");
             GuestRoom.Show();
             this.Hide();
         }
