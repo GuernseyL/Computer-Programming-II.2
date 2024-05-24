@@ -60,7 +60,17 @@
       "ProjectGuid": "f555f2a4-cb20-4971-81ee-f70a42264a7d",
       "DisplayName": "StringInterview16",
       "ColorIndex": 11
+    },
+    "3f14320b-b92d-4882-84c2-1e953966c628": {
+      "ProjectGuid": "3f14320b-b92d-4882-84c2-1e953966c628",
+      "DisplayName": "LiveChatRoomPrime",
+      "ColorIndex": 12
+    },
+    "fb68ac88-13a1-4ba4-8648-a63776b67082": {
+      "ProjectGuid": "fb68ac88-13a1-4ba4-8648-a63776b67082",
+      "DisplayName": "LiveChatRoom",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 14
 }

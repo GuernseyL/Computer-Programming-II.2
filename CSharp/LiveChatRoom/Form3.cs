@@ -25,8 +25,10 @@ namespace LiveChatRoom
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-            string variable = "alpha";
+            Form2 ChatRoom = new Form2();
+            string name = Interaction.InputBox("Enter username here:", "Enter your username");
+            ChatRoom.Show();
+            this.Hide();
         }
     }
 }
