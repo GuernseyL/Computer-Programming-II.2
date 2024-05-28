@@ -25,6 +25,7 @@ namespace LiveChatRoom
         {
             string Message = textBox1.Text;
             listBox1.Items.Add(Message);
+            
 
         }
     }

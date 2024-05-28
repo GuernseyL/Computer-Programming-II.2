@@ -70,7 +70,12 @@
       "ProjectGuid": "fb68ac88-13a1-4ba4-8648-a63776b67082",
       "DisplayName": "LiveChatRoom",
       "ColorIndex": 13
+    },
+    "1d0d5bd7-49a2-4161-a861-e2556c0f8ae0": {
+      "ProjectGuid": "1d0d5bd7-49a2-4161-a861-e2556c0f8ae0",
+      "DisplayName": "LiveChat",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }

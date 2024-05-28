@@ -12,3 +12,4 @@ C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\o
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\ref\LiveChat.dll
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.pdb
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.genruntimeconfig.cache
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\LiveChat\obj\Debug\net6.0\LiveChat.csproj.AssemblyReference.cache

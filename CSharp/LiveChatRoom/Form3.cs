@@ -29,6 +29,7 @@ namespace LiveChatRoom
             string name = Interaction.InputBox("Enter username here:", "Enter your username");
             ChatRoom.Show();
             this.Hide();
+
         }
     }
 }
