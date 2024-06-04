@@ -57,7 +57,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChatRoom", "LiveChatRoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatRoomLive", "ChatRoomLive\ChatRoomLive.csproj", "{4B8F1D1F-E72E-4F72-9043-6F43CAE47F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChatRoomPrime", "LiveChatRoomPrime\LiveChatRoomPrime.csproj", "{3F14320B-B92D-4882-84C2-1E953966C628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChatRoomPrime", "LiveChatRoomPrime\LiveChatRoomPrime.csproj", "{3F14320B-B92D-4882-84C2-1E953966C628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkCalanderApp", "WorkCalanderApp\WorkCalanderApp.csproj", "{7468220A-A617-4896-891F-37429E547CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{3F14320B-B92D-4882-84C2-1E953966C628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F14320B-B92D-4882-84C2-1E953966C628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F14320B-B92D-4882-84C2-1E953966C628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7468220A-A617-4896-891F-37429E547CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7468220A-A617-4896-891F-37429E547CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7468220A-A617-4896-891F-37429E547CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7468220A-A617-4896-891F-37429E547CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

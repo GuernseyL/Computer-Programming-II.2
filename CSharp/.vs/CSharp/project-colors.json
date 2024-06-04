@@ -75,7 +75,27 @@
       "ProjectGuid": "1d0d5bd7-49a2-4161-a861-e2556c0f8ae0",
       "DisplayName": "LiveChat",
       "ColorIndex": 14
+    },
+    "7468220a-a617-4896-891f-37429e547ce9": {
+      "ProjectGuid": "7468220a-a617-4896-891f-37429e547ce9",
+      "DisplayName": "WorkCalanderApp",
+      "ColorIndex": 15
+    },
+    "55fff00a-6f5b-4381-8faf-479595d6746b": {
+      "ProjectGuid": "55fff00a-6f5b-4381-8faf-479595d6746b",
+      "DisplayName": "Pg266Console",
+      "ColorIndex": 0
+    },
+    "c4320667-569c-42e6-81a5-4d33457539dc": {
+      "ProjectGuid": "c4320667-569c-42e6-81a5-4d33457539dc",
+      "DisplayName": "Prog310a",
+      "ColorIndex": 1
+    },
+    "8de1423c-a055-4ed6-ba27-23c664fd9049": {
+      "ProjectGuid": "8de1423c-a055-4ed6-ba27-23c664fd9049",
+      "DisplayName": "LP4-5",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 3
 }
