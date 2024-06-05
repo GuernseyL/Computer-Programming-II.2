@@ -11,3 +11,4 @@ C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\WorkCaland
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\WorkCalanderApp\obj\Debug\WorkCalanderApp.csproj.CoreCompileInputs.cache
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\WorkCalanderApp\obj\Debug\WorkCalanderApp.exe
 C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\WorkCalanderApp\obj\Debug\WorkCalanderApp.pdb
+C:\Users\guernsey.l\Documents\GitHub\Computer-Programming-II.2\CSharp\WorkCalanderApp\obj\Debug\WorkCalanderApp.csproj.ResolveComReference.cache

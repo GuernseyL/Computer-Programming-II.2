@@ -47,12 +47,14 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -247,15 +249,6 @@
             this.label10.TabIndex = 20;
             this.label10.Text = "Buisness Expenses:";
             // 
-            // label11
-            // 
-            this.label11.BackColor = System.Drawing.Color.SteelBlue;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.label11.Location = new System.Drawing.Point(862, 126);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(266, 34);
-            this.label11.TabIndex = 21;
-            // 
             // textBox5
             // 
             this.textBox5.BackColor = System.Drawing.Color.SteelBlue;
@@ -308,18 +301,48 @@
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
+            // label14
+            // 
+            this.label14.BackColor = System.Drawing.Color.SteelBlue;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.label14.Location = new System.Drawing.Point(300, 396);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(281, 34);
+            this.label14.TabIndex = 28;
+            // 
+            // label15
+            // 
+            this.label15.BackColor = System.Drawing.Color.LightBlue;
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.label15.Location = new System.Drawing.Point(12, 396);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(282, 34);
+            this.label15.TabIndex = 27;
+            this.label15.Text = "Total Employee Pay:";
+            // 
+            // textBox6
+            // 
+            this.textBox6.BackColor = System.Drawing.Color.SteelBlue;
+            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.textBox6.Location = new System.Drawing.Point(862, 128);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(266, 32);
+            this.textBox6.TabIndex = 29;
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Teal;
-            this.ClientSize = new System.Drawing.Size(1143, 407);
+            this.ClientSize = new System.Drawing.Size(1143, 464);
+            this.Controls.Add(this.textBox6);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label15);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.textBox4);
@@ -368,11 +391,13 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.TextBox textBox6;
     }
 }

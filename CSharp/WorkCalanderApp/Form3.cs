@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace WorkCalanderApp
 {
@@ -46,16 +47,17 @@ namespace WorkCalanderApp
         {
 
         }
+        double TotalEmployeePay = 0;
 
         private void button2_Click(object sender, EventArgs e)
         {
-            double TotalEmployeePay = 0
             double Wage = double.Parse(comboBox2.Text);
             double Hours = double.Parse(textBox3.Text);
             double Pay = Wage * Hours;
             double PayRounded = Math.Round(Pay, 2);
             label1.Text = ("$" + PayRounded);
-            TotalEmployeePay = TotalEmployeePay + PayRounded;
+            TotalEmployeePay = PayRounded + TotalEmployeePay;
+            label14.Text = ("$" + TotalEmployeePay);
 
         }
 
@@ -63,6 +65,13 @@ namespace WorkCalanderApp
         {
             double TotalMoney = double.Parse(textBox4.Text);
             double TotalMoneyRounded = Math.Round(TotalMoney, 2);
+            double BuisnessExpense = double.Parse(textBox5.Text);
+            double BuisnessExpenseRounded = Math.Round(BuisnessExpense, 2);
+            double TotalEmployeePay2 = double.Parse(textBox6.Text);
+            double TotalEmployeePayRounded = Math.Round(TotalEmployeePay2);
+            double RemainingMoney = TotalMoneyRounded - BuisnessExpense - TotalEmployeePay;
+            double RemainingMoneyRounded = Math.Round(RemainingMoney, 2);
+            label13.Text = ("$" + RemainingMoneyRounded);
            
 
         }
